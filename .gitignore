@@ -1,3 +1,5 @@
 venv/
 data/
 .idea/
+resume.cfg
+frontend/node_modules/
